@@ -1,0 +1,5 @@
+[build]
+functions = "./functions"
+
+ # Specifies `esbuild` for functions bundling
+  node_bundler = "esbuild"
